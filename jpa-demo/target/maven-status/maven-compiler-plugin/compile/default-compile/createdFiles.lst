@@ -1,0 +1,4 @@
+com/jpaexample/jpademo/entites/Manager.class
+com/jpaexample/jpademo/dao/ManagerDaoServices.class
+com/jpaexample/jpademo/JpaDemoApplication.class
+com/jpaexample/jpademo/controller/MangerController.class
